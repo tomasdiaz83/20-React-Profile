@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/20-React-Profile/static/css/main.2f9e0a7d.css",
-    "main.js": "/20-React-Profile/static/js/main.c2ecdcb7.js",
-    "static/js/787.523d243c.chunk.js": "/20-React-Profile/static/js/787.523d243c.chunk.js",
-    "static/media/KMW.jpg": "/20-React-Profile/static/media/KMW.f7c723222750d5f11f80.jpg",
-    "static/media/Alchemist.jpg": "/20-React-Profile/static/media/Alchemist.a03e5e9ac22b0fcf99c2.jpg",
-    "static/media/WeatherApp.png": "/20-React-Profile/static/media/WeatherApp.65175c6a47ad45c2e8ee.png",
-    "static/media/CodeQuiz.png": "/20-React-Profile/static/media/CodeQuiz.2799d9826faa4c704e69.png",
-    "static/media/PWGenerator.png": "/20-React-Profile/static/media/PWGenerator.5d190c7c881fe664d9e6.png",
-    "static/media/READMEGenerator.png": "/20-React-Profile/static/media/READMEGenerator.2bc4ccd0025e40cecd51.png",
-    "static/media/JATE.png": "/20-React-Profile/static/media/JATE.e2afe501793849949aa8.png",
-    "index.html": "/20-React-Profile/index.html",
-    "main.2f9e0a7d.css.map": "/20-React-Profile/static/css/main.2f9e0a7d.css.map",
-    "main.c2ecdcb7.js.map": "/20-React-Profile/static/js/main.c2ecdcb7.js.map",
-    "787.523d243c.chunk.js.map": "/20-React-Profile/static/js/787.523d243c.chunk.js.map"
+    "main.css": "/Tomas-Diaz-Profile/static/css/main.2f9e0a7d.css",
+    "main.js": "/Tomas-Diaz-Profile/static/js/main.5daee127.js",
+    "static/media/KMW.jpg": "/Tomas-Diaz-Profile/static/media/KMW.f7c723222750d5f11f80.jpg",
+    "static/media/Alchemist.jpg": "/Tomas-Diaz-Profile/static/media/Alchemist.a03e5e9ac22b0fcf99c2.jpg",
+    "static/media/WeatherApp.png": "/Tomas-Diaz-Profile/static/media/WeatherApp.65175c6a47ad45c2e8ee.png",
+    "static/media/CodeQuiz.png": "/Tomas-Diaz-Profile/static/media/CodeQuiz.2799d9826faa4c704e69.png",
+    "static/media/PWGenerator.png": "/Tomas-Diaz-Profile/static/media/PWGenerator.5d190c7c881fe664d9e6.png",
+    "static/media/READMEGenerator.png": "/Tomas-Diaz-Profile/static/media/READMEGenerator.2bc4ccd0025e40cecd51.png",
+    "static/media/JATE.png": "/Tomas-Diaz-Profile/static/media/JATE.e2afe501793849949aa8.png",
+    "index.html": "/Tomas-Diaz-Profile/index.html",
+    "main.2f9e0a7d.css.map": "/Tomas-Diaz-Profile/static/css/main.2f9e0a7d.css.map",
+    "main.5daee127.js.map": "/Tomas-Diaz-Profile/static/js/main.5daee127.js.map"
   },
   "entrypoints": [
     "static/css/main.2f9e0a7d.css",
-    "static/js/main.c2ecdcb7.js"
+    "static/js/main.5daee127.js"
   ]
 }
