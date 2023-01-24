@@ -86,8 +86,14 @@ nav a {
     margin: 50px;
 }
 
-.about h2, .about p {
+.about h2 {
     text-align: center;
+}
+
+.about p {
+    text-align: justify;
+    margin: 0 40px 0 40px;
+    line-height: 1.6;
 }
 
 /* The Project Flip Cards */
@@ -159,29 +165,81 @@ nav a {
 }
 
 /* Contact Classes */
-.contactBoxes div {
+.form {
     background-color: var(--secondary);
-    padding: 50px 100px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px
 }
 
-.contactBoxes div a{
-    font-size: 2rem;
+.form label {
+    font-weight: bold;
+}
+
+input[type=text], input[type=email], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    font-family:Arial, Helvetica, sans-serif;
+}
+  
+button {
+    width: 100%;
+    background-color: var(--primary);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--text);
+}
+
+.errorMessage, .successMessage {
+    background-color: var(--secondary);
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px
 }
 
 /* Footer */
 .endFooter {
     background-color: var(--secondary);
-    height: 30px;
+    height: 70px;
     position:relative;
     margin-top: 20px;
 }
 
-.endFooter p{
+.socialLinks {
+    font-size: 50px;
+}
+
+.endFooter div{
     position:absolute;
+    display: flex;
+    gap: 20px;
     bottom:0;
     right:0;
     margin:1px;
+    padding-right: 60px;
 }
 
 .imgFit {
