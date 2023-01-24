@@ -10,7 +10,6 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <div className="App">
-      <Router>
         <div>
           <Header />
           <div>
@@ -31,7 +30,6 @@ function App() {
           </div>
           <Footer />
         </div>
-      </Router>
     </div>
   );
 }
