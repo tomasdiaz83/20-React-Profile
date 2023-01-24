@@ -1,8 +1,8 @@
 # 20-React-Profile
-A personal profile for the developed utilizing React technology.
+A personal profile for the developer utilizing React technology.
 
 # Link
-
+https://tomasdiaz83.github.io/Tomas-Diaz-Profile/
 # License
 MIT License
 
