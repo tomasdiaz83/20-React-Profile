@@ -1,7 +1,7 @@
 {
-  "name": "Tomas-Diaz-Portfolio",
+  "name": "Diaz-Portfolio",
   "version": "0.1.0",
-  "homepage": "https://tomasdiaz83.github.io/Tomas-Diaz-Portfolio/",
+  "homepage": "https://tomasdiaz83.github.io/Diaz-Portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
