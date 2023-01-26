@@ -90,7 +90,7 @@ nav a {
     text-align: center;
 }
 
-.about p {
+.about p, .about ul li {
     text-align: justify;
     margin: 0 40px 0 40px;
     line-height: 1.6;

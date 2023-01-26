@@ -4,8 +4,15 @@ import WeatherApp from '../assets/Images/WeatherApp.png'
 import READMEGenerator from '../assets/Images/READMEGenerator.png'
 import JATE from '../assets/Images/JATE.png'
 import KMW from '../assets/Images/KMW.jpg'
+import DEADCODER from '../assets/Images/deadcoder.png'
 
 const projects = [
+    {
+        title: 'Deadcoder',
+        info: 'Welcome to deadCoder [ ded - koh - der ]. deadCoder is an app that allows you to play Tetris, Lights Out, or TicTacToe. Player scores are tracked, and you, the player are able to like the games you enjoy the most. The project, built with a team of fellow developers, utilized a full MERN stack. I worked on the back end with Mongoose and GraphQL and contributed to game development, both in building their functionality and their communication with the server.',
+        repo: 'https://github.com/tomasdiaz83/deadCoder',
+        image: DEADCODER
+    },
     {
         title: 'Text Editor',
         info: `Just Another Text Editor app is a simple text editor, utilizing a suite of WPA technologies. It keeps persistent data utilizing the Browser cache and allows for local installation`,
