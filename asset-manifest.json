@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Tomas-Diaz-Profile/static/css/main.2f9e0a7d.css",
-    "main.js": "/Tomas-Diaz-Profile/static/js/main.1f87bfda.js",
+    "main.css": "/Tomas-Diaz-Profile/static/css/main.afada8a9.css",
+    "main.js": "/Tomas-Diaz-Profile/static/js/main.1c34e460.js",
+    "static/media/deadcoder.png": "/Tomas-Diaz-Profile/static/media/deadcoder.35901a983ceeac22743d.png",
     "static/media/KMW.jpg": "/Tomas-Diaz-Profile/static/media/KMW.f7c723222750d5f11f80.jpg",
     "static/media/Alchemist.jpg": "/Tomas-Diaz-Profile/static/media/Alchemist.a03e5e9ac22b0fcf99c2.jpg",
     "static/media/WeatherApp.png": "/Tomas-Diaz-Profile/static/media/WeatherApp.65175c6a47ad45c2e8ee.png",
@@ -10,11 +11,11 @@
     "static/media/READMEGenerator.png": "/Tomas-Diaz-Profile/static/media/READMEGenerator.2bc4ccd0025e40cecd51.png",
     "static/media/JATE.png": "/Tomas-Diaz-Profile/static/media/JATE.e2afe501793849949aa8.png",
     "index.html": "/Tomas-Diaz-Profile/index.html",
-    "main.2f9e0a7d.css.map": "/Tomas-Diaz-Profile/static/css/main.2f9e0a7d.css.map",
-    "main.1f87bfda.js.map": "/Tomas-Diaz-Profile/static/js/main.1f87bfda.js.map"
+    "main.afada8a9.css.map": "/Tomas-Diaz-Profile/static/css/main.afada8a9.css.map",
+    "main.1c34e460.js.map": "/Tomas-Diaz-Profile/static/js/main.1c34e460.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f9e0a7d.css",
-    "static/js/main.1f87bfda.js"
+    "static/css/main.afada8a9.css",
+    "static/js/main.1c34e460.js"
   ]
 }
