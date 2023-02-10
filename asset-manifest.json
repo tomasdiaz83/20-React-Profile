@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Diaz-Portfolio/static/css/main.afada8a9.css",
-    "main.js": "/Diaz-Portfolio/static/js/main.bb2c06ca.js",
+    "main.css": "/Diaz-Portfolio/static/css/main.4de0d550.css",
+    "main.js": "/Diaz-Portfolio/static/js/main.cdf85943.js",
+    "static/media/startup.png": "/Diaz-Portfolio/static/media/startup.d5311355efdeed7d35c0.png",
     "static/media/deadcoder.png": "/Diaz-Portfolio/static/media/deadcoder.35901a983ceeac22743d.png",
     "static/media/KMW.jpg": "/Diaz-Portfolio/static/media/KMW.f7c723222750d5f11f80.jpg",
     "static/media/Alchemist.jpg": "/Diaz-Portfolio/static/media/Alchemist.a03e5e9ac22b0fcf99c2.jpg",
@@ -11,11 +12,11 @@
     "static/media/READMEGenerator.png": "/Diaz-Portfolio/static/media/READMEGenerator.2bc4ccd0025e40cecd51.png",
     "static/media/JATE.png": "/Diaz-Portfolio/static/media/JATE.e2afe501793849949aa8.png",
     "index.html": "/Diaz-Portfolio/index.html",
-    "main.afada8a9.css.map": "/Diaz-Portfolio/static/css/main.afada8a9.css.map",
-    "main.bb2c06ca.js.map": "/Diaz-Portfolio/static/js/main.bb2c06ca.js.map"
+    "main.4de0d550.css.map": "/Diaz-Portfolio/static/css/main.4de0d550.css.map",
+    "main.cdf85943.js.map": "/Diaz-Portfolio/static/js/main.cdf85943.js.map"
   },
   "entrypoints": [
-    "static/css/main.afada8a9.css",
-    "static/js/main.bb2c06ca.js"
+    "static/css/main.4de0d550.css",
+    "static/js/main.cdf85943.js"
   ]
 }
