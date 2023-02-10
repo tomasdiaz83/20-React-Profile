@@ -9,21 +9,31 @@ import DEADCODER from '../assets/Images/deadcoder.png'
 const projects = [
     {
         title: 'Deadcoder',
-        info: 'Welcome to deadCoder [ ded - koh - der ]. deadCoder is an app that allows you to play Tetris, Lights Out, or TicTacToe. Player scores are tracked, and you, the player are able to like the games you enjoy the most. The project, built with a team of fellow developers, utilized a full MERN stack. I worked on the back end with Mongoose and GraphQL and contributed to game development, both in building their functionality and their communication with the server.',
+        info: `Welcome to deadCoder [ ded - koh - der ]. deadCoder is an app that allows you to play Tetris, Lights Out, or TicTacToe. Player scores are tracked, and you, the player are able to like the games you enjoy the most. The project, built with a team of fellow developers, utilized a full MERN stack. I worked on the back end with Mongoose and GraphQL and contributed to game development, both in building their functionality and their communication with the server.
+        
+        Technologies: Mongoose, GraphQL, React, Javascript`,
         repo: 'https://github.com/tomasdiaz83/deadCoder',
         site: 'https://deadcoder.herokuapp.com/',
         image: DEADCODER
     },
     {
         title: 'Know Mow Worries',
-        info: 'A forum built with MVC technology for freelance lawn workers to connect. This was a group project with a number of hands involved in the creation of the site.',
+        info: `A forum built with MVC technology for freelance lawn workers to connect. This was a group project with a number of hands involved in the creation of the site.
+        
+        Technologies: Mysql, Sequelize, Handlebars, Express`,
         repo: 'https://github.com/tomasdiaz83/KnowMowWorries',
         site: 'https://knowmowworries.onrender.com/',
         image: KMW
     },
     {
+        title: 'MatchMakers',
+        info: `An app to pair a movie with a music album. The Date Night Maker app allows for simple search functionality of movies and albums so a user may create a pairing, with pairings remembered for future reference. This allows users to prepare for a night in quickly, or grab information from the past to replicate a successful evening. First Team project!
+
+        Technologies: HTML, CSS, JS`
+    },
+    {
         title: 'Text Editor',
-        info: `Just Another Text Editor app is a simple text editor, utilizing a suite of WPA technologies. It keeps persistent data utilizing the Browser cache and allows for local installation`,
+        info: `Just Another Text Editor app is a simple text editor, utilizing a suite of WPA technologies. It keeps persistent data utilizing the Browser cache and allows for local installation.`,
         repo: `https://github.com/tomasdiaz83/19-Text-Editor`,
         site: 'https://just-another-text-editor-ted83.herokuapp.com/',
         image: JATE,
