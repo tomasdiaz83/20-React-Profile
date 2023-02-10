@@ -5,6 +5,7 @@ import READMEGenerator from '../assets/Images/READMEGenerator.png'
 import JATE from '../assets/Images/JATE.png'
 import KMW from '../assets/Images/KMW.jpg'
 import DEADCODER from '../assets/Images/deadcoder.png'
+import MatchMaker from '../assets/Images/startup.png'
 
 const projects = [
     {
@@ -29,7 +30,10 @@ const projects = [
         title: 'MatchMakers',
         info: `An app to pair a movie with a music album. The Date Night Maker app allows for simple search functionality of movies and albums so a user may create a pairing, with pairings remembered for future reference. This allows users to prepare for a night in quickly, or grab information from the past to replicate a successful evening. First Team project!
 
-        Technologies: HTML, CSS, JS`
+        Technologies: HTML, CSS, JS`,
+        repo: 'https://github.com/tomasdiaz83/TheMatchmakersWebsite',
+        site: 'https://tomasdiaz83.github.io/TheMatchmakersWebsite/',
+        image: MatchMaker
     },
     {
         title: 'Text Editor',

@@ -177,8 +177,12 @@ nav a {
     padding: 30px
 }
 
-.form label {
+.form label, .form p {
     font-weight: bold;
+}
+
+.form p a {
+    text-decoration: underline;
 }
 
 input[type=text], input[type=email], textarea {
