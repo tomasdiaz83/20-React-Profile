@@ -11,7 +11,15 @@ const projects = [
         title: 'Deadcoder',
         info: 'Welcome to deadCoder [ ded - koh - der ]. deadCoder is an app that allows you to play Tetris, Lights Out, or TicTacToe. Player scores are tracked, and you, the player are able to like the games you enjoy the most. The project, built with a team of fellow developers, utilized a full MERN stack. I worked on the back end with Mongoose and GraphQL and contributed to game development, both in building their functionality and their communication with the server.',
         repo: 'https://github.com/tomasdiaz83/deadCoder',
+        site: 'https://deadcoder.herokuapp.com/',
         image: DEADCODER
+    },
+    {
+        title: 'Know Mow Worries',
+        info: 'A forum built with MVC technology for freelance lawn workers to connect. This was a group project with a number of hands involved in the creation of the site.',
+        repo: 'https://github.com/tomasdiaz83/KnowMowWorries',
+        site: 'https://knowmowworries.onrender.com/',
+        image: KMW
     },
     {
         title: 'Text Editor',
@@ -47,13 +55,6 @@ const projects = [
         repo: `https://github.com/tomasdiaz83/READMEGenerator`,
         site: '',
         image: READMEGenerator,
-    },
-    {
-        title: 'Know Mow Worries',
-        info: 'A forum built with MVC technology for freelance lawn workers to connect. This was a group project with a number of hands involved in the creation of the site.',
-        repo: 'https://github.com/tomasdiaz83/KnowMowWorries',
-        site: '',
-        image: KMW
     }
 ]
 
